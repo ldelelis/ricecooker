@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"los progfags"
+	],
+	"copyright": "Copyright © 2019, progfags",
+	"description": "Manages rices like packages",
+	"license": "MIT",
+	"name": "ricecooker"
+}

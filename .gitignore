@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ricecooker
+ricecooker.so
+ricecooker.dylib
+ricecooker.dll
+ricecooker.a
+ricecooker.lib
+ricecooker-test-*
+*.exe
+*.o
+*.obj
+*.lst
